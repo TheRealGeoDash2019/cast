@@ -10,11 +10,7 @@
   background-color: #0a148e;
 }
 
-.splash {
-  background-image: url(splash.png);
-}
-
 .watermark {
-  background-image: url(watermark.png);
+  background-image: url(https://raw.githubusercontent.com/TheRealGeoDash2019/cast/main/assets/geo.png);
   background-size: 57px 57px;
 }
